@@ -106,13 +106,15 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 (Add your Render link here after deployment)
+👉 https://google-play-store-analytics-dashboard.onren<img width="1918" height="1023" alt="Screenshot 2026-04-10 133908" src="https://github.com/user-attachments/assets/4d99e3f7-a72f-45e5-9e2e-fae24c64a0cc" />
+der.com/
 
 ---
 
 ## 📷 Screenshots
+<img width="1918" height="1023" alt="Screenshot 2026-04-10 133908" src="https://github.com/user-attachments/assets/9a57f13a-4eaa-44dd-9c1a-7f9fb1a852eb" />
 
-(Add screenshots of your dashboard here)
+
 
 ---
 
