@@ -106,13 +106,14 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 https://google-play-store-analytics-dashboard.onren<img width="1918" height="1023" alt="Screenshot 2026-04-10 133908" src="https://github.com/user-attachments/assets/4d99e3f7-a72f-45e5-9e2e-fae24c64a0cc" />
-der.com/
+👉 https://google-play-store-analytics-dashboard.onrender.com/
 
 ---
 
 ## 📷 Screenshots
+<img width="1901" height="1011" alt="Screenshot 2026-04-10 133824" src="https://github.com/user-attachments/assets/3e0954cc-752d-42ec-b84f-5a8758ff94a5" />
 <img width="1918" height="1023" alt="Screenshot 2026-04-10 133908" src="https://github.com/user-attachments/assets/9a57f13a-4eaa-44dd-9c1a-7f9fb1a852eb" />
+<img width="1916" height="1018" alt="Screenshot 2026-04-10 133854" src="https://github.com/user-attachments/assets/3391569f-723f-4e2d-822c-8fbacf7b8351" />
 
 
 
