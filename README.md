@@ -112,8 +112,12 @@ streamlit run app.py
 
 ## 📷 Screenshots
 <img width="1400" height="900" alt="Screenshot 2026-04-10 133824" src="https://github.com/user-attachments/assets/3e0954cc-752d-42ec-b84f-5a8758ff94a5" />
-<img width="1918" height="1023" alt="Screenshot 2026-04-10 133908" src="https://github.com/user-attachments/assets/9a57f13a-4eaa-44dd-9c1a-7f9fb1a852eb" />
-<img width="1916" height="1018" alt="Screenshot 2026-04-10 133854" src="https://github.com/user-attachments/assets/3391569f-723f-4e2d-822c-8fbacf7b8351" />
+<img width="1400" height="900" alt="Screenshot 2026-04-10 133908" src="https://github.com/user-attachments/assets/9a57f13a-4eaa-44dd-9c1a-7f9fb1a852eb" />
+<img width="1400" height="900" alt="Screenshot 2026-04-11 162041" src="https://github.com/user-attachments/assets/601a97f7-84f8-4eb7-a141-c7f2d171974c" />
+<img width="1400" height="900" alt="Screenshot 2026-04-11 162102" src="https://github.com/user-attachments/assets/96575fab-70fc-496b-bb77-2b73f9c16c80" />
+
+
+<img width="1400" height="900" alt="Screenshot 2026-04-10 133854" src="https://github.com/user-attachments/assets/3391569f-723f-4e2d-822c-8fbacf7b8351" />
 
 
 
@@ -131,13 +135,12 @@ This project is an extension of the training project where additional internship
 
 ## 👩‍💻 Author
 
-**Kavya G**
+**Gatla Kavya**
 
 ---
 
 ## 📧 Contact
 
-For queries or collaboration:
-(Add your email if needed)
+kavyagatla06@gmail.com
 
 ---
